@@ -11,6 +11,7 @@ The project utilizes Bootstrap for front-end styling and JavaScript for form val
 The database schema and sample data are provided in the assignment.sql file, which should be imported into your MySQL database before running the project.
 
 How to Setup the Project
+
 Clone the Repository: Clone this repository to your local machine using Git.
 bash
 Copy code
